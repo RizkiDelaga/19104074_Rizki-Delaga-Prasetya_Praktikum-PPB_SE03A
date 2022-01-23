@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208074643420",
+    "project_id": "auth-d6627",
+    "storage_bucket": "auth-d6627.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208074643420:android:38b1f0c8ba940e0f136119",
+        "android_client_info": {
+          "package_name": "com.rizkidelagaprasetya_19104074.authgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208074643420-0ll0gcgvsna2j8e8ln0dkh9dk0d2i36r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdqa3tUQDNVmjCaEMpRdKAUc6JFmg05NA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208074643420-0ll0gcgvsna2j8e8ln0dkh9dk0d2i36r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
